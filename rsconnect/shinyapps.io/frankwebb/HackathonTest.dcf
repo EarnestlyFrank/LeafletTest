@@ -1,0 +1,12 @@
+name: HackathonTest
+title: HackathonTest
+username:
+account: frankwebb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 231053
+bundleId: 1054195
+url: https://frankwebb.shinyapps.io/HackathonTest/
+when: 1509495506.4902
+asMultiple: FALSE
+asStatic: FALSE
